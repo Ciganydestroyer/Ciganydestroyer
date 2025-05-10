@@ -39,6 +39,14 @@
 
 ###
 
+<div align="left">
+  <a href="https://open.spotify.com/user/qlqq2t859u599q6592hc2dt88">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qlqq2t859u599q6592hc2dt88&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ciganydestroyer/Ciganydestroyer/output/snake.svg" alt="Snake animation" />
