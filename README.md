@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋! My name is Gyuri and I'm a Java dev, from Hungary!</h1>
-<h1 align="left"> 🟥⬜🟩 </h1>
+<h2 align="left"> 🟥⬜🟩 </h2>
 <p align="left"> I'm 16 years old and im trying my best to learn about java</p>
 
 ###
